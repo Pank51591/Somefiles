@@ -82,6 +82,7 @@ git push     上传代码
  git clone https://github.com/tianqixin/runoob-git-test
 ```
 
+git checkout []     //切换分支
  
 
  
