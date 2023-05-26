@@ -83,6 +83,12 @@ git push     上传代码
 ```
 
 git checkout []     //切换分支
- 
 
- 
+
+
+# Git去除SSL验证
+
+```
+git config --global http.sslVerify false
+```
+
