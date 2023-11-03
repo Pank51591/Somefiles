@@ -92,3 +92,63 @@ git checkout []     //切换分支
 git config --global http.sslVerify false
 ```
 
+
+
+
+
+## 查看版本信息
+
+git  log
+
+
+
+### 回退到目标版本
+
+```
+git reset --hard  [6747e17373fd83bd2bbcd28724dfcf0c6274916d]
+```
+
+
+
+### 把远程仓库的更新合并到本地仓库
+
+```
+git pull --rebase origin master
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
